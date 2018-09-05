@@ -57,7 +57,7 @@
                     android:fontFamily="sans-serif-condensed"
                     android:gravity="bottom"
                     android:textColor="#fff"
-                    android:textSize="24sp"
+                    android:textSize="22sp"
                     android:textStyle="bold" />
             </android.support.v7.widget.Toolbar>
 
