@@ -25,6 +25,8 @@
 
     <color name="primaryTextColor">#000000</color>
 
+    <color name="colorAccent">#1976d2</color>
+
     <color name="primaryBackgroundColor">#c8e6c9</color>
 
     <color name="photo_placeholder">#ccc</color>
