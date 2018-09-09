@@ -88,7 +88,7 @@
     <android.support.design.widget.FloatingActionButton android:id="@+id/share_fab"
         android:background="@drawable/add_fab_background"
         android:layout_margin="16dp"
-        android:elevation="10dp"
+        android:elevation="6dp"
         android:layout_gravity="bottom|end"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
